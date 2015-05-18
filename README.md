@@ -30,7 +30,7 @@ There are two options to using the server library. The easiest is you simply add
 
 Dependencies
 ----------------
-This project has no dependencies (yet) other the core Java libraries, although there will be some soon!
+This project depends on the Java MySQL connector and the Netty networking library.
 
 Build Instructions
 ----------------
