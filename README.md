@@ -34,7 +34,7 @@ This project depends on the Java MySQL connector and the Netty networking librar
 
 Build Instructions
 ----------------
-Compile the project within Netbeans using Apache ANT, or use the IDE or your choice. Or, you javac from the command line!
+Compile the project within Netbeans using Apache ANT, or use the IDE or your choice. Or, use javac from the command line!
 
 Install Instructions
 ----------------
